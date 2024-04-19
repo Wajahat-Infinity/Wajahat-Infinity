@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is wajahat Hussain and I'm a Software Engineering, from Pakistan.<br>As a web developer, I am skilled in HTML, CSS, Bootstrap, Django, MongoDB and Microsoft SQL Server.</h2>
+<h2 align="left">Hi 👋! My name is wajahat Hussain .I'm a Software Engineering and web developer, from Pakistan.<br>As a web developer, I am skilled in HTML, CSS, Bootstrap, Django, MongoDB and Microsoft SQL Server.</h2>
 
 ###
 
