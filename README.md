@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is wajahat Hussain .I'm a Software Engineering and web developer.<br>As a web developer, I am skilled in HTML, CSS, Bootstrap, Django, MongoDB and Microsoft SQL Server.</h2>
+<h2 align="left">Hi 👋! I am wajahat Hussain .Software Engineering and web developer.<br>|| HTML | CSS | Bootstrap | Django | MongoDB | Microsoft SQL Server.</h2>
 
 ###
 
