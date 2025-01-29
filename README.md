@@ -1,4 +1,4 @@
-<h2 align="left">"Hello World 👋!" I am wajahat Hussain .Software Engineering and web developer.<br>|| HTML | CSS | Bootstrap | Django | React js | SQL |Fast Api| Rest API|.</h2>
+<h2 align="left">"Hello World 👋!" I am wajahat Hussain .Software Engineering and web developer.<br>|| HTML | CSS | Bootstrap | Django | React js | SQL |Fast Api| Rest API| Tensor Flow |Keras API |Scikit Learn |Pandas |Matplotlib.</h2>
 
 ###
 
